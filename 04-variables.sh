@@ -6,4 +6,4 @@ read  USERNAME # Here USERNAME is a variable name
 
 echo "Please enter your password::"
 
-read 
+read -s
