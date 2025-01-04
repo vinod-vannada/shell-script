@@ -1,7 +1,7 @@
 #!/bin/bash
 
-PERSON1=Rahim
-PERSON2=Robert
+PERSON1=$1
+PERSON2=$2
 
 
 
